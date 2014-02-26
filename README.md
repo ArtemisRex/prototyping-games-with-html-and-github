@@ -31,14 +31,14 @@ If you clone or fork this repo you’ll be able to run the simulation locally an
 Limitations and Observations
 ===
 ###Pros
+* Unity engine: Github pages will run Unity based games and demos just fine.
+* WebGL: WebGL works.
+* It is free and super easy to set up.
+* Github is awesome: Github is a great way to share your code with the world. As a hiring manager, it is one of the first things I look at when reviewing candidates.
 
-Unity engine: Github pages will run Unity based games and demos just fine.
-WebGL: WebGL works great.
-It is free and super easy to set up.
-Github is awesome: Github is a great way to share your code with the world. As a hiring manager, it is one of the first things I look at when reviewing candidates.
 ###Cons
-Static hosting: You can upload JavaScript libraries like twitter bootstrap [reference] and jquery [reference] but github does not provide a datastore option. So far for my prototyping needs this has been an acceptable tradeoff. 
-Your pages are wide open (potential con). While you can lock down your repo by making it private, at the time of this writing the pages are still publicly visible [try this out!]
+* Static hosting: You can upload JavaScript libraries like [twitter bootstrap] [reference]() and [jquery]() but github does not provide a datastore option. So far for my prototyping needs this has been an acceptable tradeoff. 
+* Your pages are wide open (potential con). While you can lock down your repo by making it private, at the time of this writing the pages are still publicly visible [try this out!]
 
 Conclusion
 ===
