@@ -24,7 +24,7 @@ Here’s a simple example:
 
 Repository: [github.com/JeffLutzenberger/protoyping-games-with-html-and-github](https://github.com/JeffLutzenberger/prototyping-games-with-html-and-github)
 
-Hosted Page: [jefflutzenberger.github.oi/prototyping-games-with-html-and-github](http://jefflutzenberger.github.oi/prototyping-games-with-html-and-github)
+Hosted Page: [jefflutzenberger.github.oi/prototyping-games-with-html-and-github](http://jefflutzenberger.github.io/prototyping-games-with-html-and-github/)
 
 If you clone or fork this repo you’ll be able to run the simulation locally and also push it up to your own Github repo for the world to see.  
 
