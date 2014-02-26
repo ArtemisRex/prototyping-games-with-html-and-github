@@ -37,7 +37,7 @@ Limitations and Observations
 * Github is awesome: Github is a great way to share your code with the world. As a hiring manager, it is one of the first things I look at when reviewing candidates.
 
 ###Cons
-* Static hosting: You can upload JavaScript libraries like [twitter bootstrap] [reference]() and [jquery]() but github does not provide a datastore option. So far for my prototyping needs this has been an acceptable tradeoff. 
+* Static hosting: You can upload JavaScript libraries like [twitter bootstrap](http://getbootstrap.com/2.3.2/) and [jquery](http://jquery.com/) but github does not provide a datastore option. So far for my prototyping needs this has been an acceptable tradeoff. 
 * Your pages are wide open (potential con). While you can lock down your repo by making it private, at the time of this writing the pages are still publicly visible [try this out!]
 
 Conclusion
